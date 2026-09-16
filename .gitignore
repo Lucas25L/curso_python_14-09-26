@@ -1,0 +1,6 @@
+*.pdf
+__pycache__/ 
+venv/ .env
+
+apunte_curso_python.docx
+primera_clase/presupuesto.docx
